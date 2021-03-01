@@ -89,10 +89,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*Pipfile
+*Pipfile.lock
 
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# VS Code Project settings
+.vscode/
 
 # Rope project settings
 .ropeproject
